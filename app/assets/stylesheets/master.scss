@@ -82,3 +82,12 @@ h2 {
 .about {
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
 }
+
+h2 span {
+  color: #A2B7C9;
+  font-family: 'ostrich_sansblack';
+}
+
+::selection {
+  background-color: #f84342
+}
